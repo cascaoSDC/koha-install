@@ -3,7 +3,7 @@ Scripts for helping on the KOHA Instalation..Migration..etc
 
 To install KOHA on a clean Debian 9 Server just run the following commands:
 
-1 -$ git clone https://github.com/ricfix/koha.git
+1 -$ git clone https://github.com/cascaoSDC/koha-install
 
 2 -$ cd koha
 
